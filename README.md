@@ -16,7 +16,7 @@
     *   게임에 [BepInEx 프레임워크](https://github.com/BepInEx/BepInEx)를 설치합니다.
 
 2.  **BepInEx 폴더 생성**
-    *   BepInEx 설치 후, 게임을 **1회 실행했다가 바로 종료**합니다.
+    *   BepInEx 설치 후, 게임을 **1회 실행했다가 종료**합니다.
     *   게임 로컬 폴더에 `BepInEx` 관련 폴더들이 생성된 것을 확인합니다.
 
 3.  **모드 파일 적용**
